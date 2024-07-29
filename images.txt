@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.02-py3
+tugraph/tugraph-runtime-centos7:latest
