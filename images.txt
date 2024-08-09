@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.21.3
+infiniflow/ragflow:0.9.0
