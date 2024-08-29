@@ -1,1 +1,1 @@
-docker:lates
+docker:latest
