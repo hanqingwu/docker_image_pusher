@@ -1,1 +1,1 @@
-divideprojects/docker-python-base:py310
+docker:lates
