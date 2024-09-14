@@ -1,1 +1,1 @@
-eclipse-temurin:11-jre-focal
+digglerz/python3.8:latest
