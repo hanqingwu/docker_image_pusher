@@ -1,1 +1,1 @@
-digglerz/python3.8:latest
+downloads.unstructured.io/unstructured-io/unstructured-api:latest
