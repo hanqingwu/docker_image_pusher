@@ -1,2 +1,1 @@
-etherpad/etherpad:latest
-postgres:15-alpine
+node:alpine
