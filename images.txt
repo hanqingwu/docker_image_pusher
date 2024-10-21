@@ -1,2 +1,2 @@
-caddy:latest
-postgres:16
+etherpad/etherpad:latest
+postgres:15-alpine
