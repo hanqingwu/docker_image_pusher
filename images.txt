@@ -1,1 +1,2 @@
-node:alpine
+langgenius/dify-api:0.10.1
+langgenius/dify-web:0.10.1
