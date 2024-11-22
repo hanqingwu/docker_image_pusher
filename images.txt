@@ -1,2 +1,3 @@
-langgenius/dify-web:0.11.2
-langgenius/dify-api:0.11.2
+docker.io/searxng/searxng:latest
+itzcrazykns1337/perplexica-backend:main
+itzcrazykns1337/perplexica-frontend:main
