@@ -1,3 +1,1 @@
-docker.io/searxng/searxng:latest
-itzcrazykns1337/perplexica-backend:main
-itzcrazykns1337/perplexica-frontend:main
+huohuofengfengpublic/unstructured:latest
