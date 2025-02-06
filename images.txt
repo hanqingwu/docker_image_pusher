@@ -1,6 +1,2 @@
-us.gcr.io/k8s-artifacts-prod/kube-apiserver-arm64:v1.21.14
-us.gcr.io/k8s-artifacts-prod/kube-controller-manager-arm64:v1.21.14
-us.gcr.io/k8s-artifacts-prod/kube-scheduler-arm64:v1.21.14
-us.gcr.io/k8s-artifacts-prod/pause-arm64:3.2
-us.gcr.io/k8s-artifacts-prod/etcd-arm64:v.4.3-0
+us.gcr.io/k8s-artifacts-prod/kube-proxy-arm64:v1.21.14
 us.gcr.io/k8s-artifacts-prod/coredns-arm64:1.6.7
