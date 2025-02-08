@@ -1,1 +1,2 @@
-kubesphere/fluent-bit:v1.8.11@sha256:1c696c24e1814cc741a27d5a44deed2c6adce56bff257ffdb44009195be8ffd5
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
