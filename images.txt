@@ -1,2 +1,1 @@
-node:20-alpine3.22
-
+ghcr.io/dockur/windows:5.14
