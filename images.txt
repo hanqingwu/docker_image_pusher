@@ -1,1 +1,1 @@
-node:20-slim
+ghcr.io/requarks/wiki:2
