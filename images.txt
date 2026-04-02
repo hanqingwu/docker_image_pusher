@@ -1,1 +1,3 @@
-ghcr.io/requarks/wiki:2
+docmost/docmost:latest
+postgres:18
+redis:8
