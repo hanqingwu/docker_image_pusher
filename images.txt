@@ -1,3 +1,1 @@
-docmost/docmost:latest
-postgres:18
-redis:8
+mysql:8.0 
