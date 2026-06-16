@@ -1,1 +1,5 @@
-w553000664/smartperfetto:latest
+node:24-bookworm
+rust:1-bookworm
+debian:bookworm-slim
+node:24-bookworm-slim
+node:24-bookworm-slim
