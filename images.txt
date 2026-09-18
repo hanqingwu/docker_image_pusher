@@ -1,5 +1,6 @@
-node:24-bookworm
-rust:1-bookworm
-debian:bookworm-slim
-node:24-bookworm-slim
-node:24-bookworm-slim
+ ghcr.io/n8n-io/n8n-sandbox-service-api
+ ghcr.io/n8n-io/n8n-sandbox-service-api
+ ghcr.io/n8n-io/n8n-sandbox-service-runner-dind
+ docker.io/n8nio/n8n
+ ghcr.io/n8n-io/runners
+ ghcr.io/searxng/searxng
